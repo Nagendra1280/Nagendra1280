@@ -8,8 +8,8 @@ I'm a software developer, Information Science undergraduate with hands‑on expe
 ![](https://streak-stats.demolab.com/?user=Nagendraprasad&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagendraprasad&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 ---
 [![](https://komarev.com/ghpvc/?username=Nagendraprasad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
