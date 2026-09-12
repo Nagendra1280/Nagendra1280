@@ -1,5 +1,5 @@
 # About Me: 
-I'm a software developer 
+I'm a software developer, Information Science undergraduate with hands‑on experience in building Java‑based systems and automation tools. Skilled in Java, Spring Boot, JUnit, and database integration with MySQL and PostgreSQL, complemented by strong knowledge of OOPS, Data Structures, and System Design. Developed impactful projects including a crop recommendation system and real‑time civic management platform, applying AI‑driven approaches and scalable backend solutions. Actively seeking opportunities to leverage Java expertise in designing efficient, intelligent applications while gaining industry exposure.
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 # 💻 Tech Stack:
