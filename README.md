@@ -1,107 +1,15 @@
-<svg width="900" height="420" viewBox="0 0 900 420"
-     xmlns="http://www.w3.org/2000/svg">
+# About Me: 
+I'm a software developer, Information Science undergraduate with hands‑on experience in building Java‑based systems and automation tools. Skilled in Java, Spring Boot, JUnit, and database integration with MySQL and PostgreSQL, complemented by strong knowledge of OOPS, Data Structures, and System Design. Developed impactful projects including a crop recommendation system and real‑time civic management platform, applying AI‑driven approaches and scalable backend solutions. Actively seeking opportunities to leverage Java expertise in designing efficient, intelligent applications while gaining industry exposure.
 
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nagendraprasad&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nagendraprasad&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagendraprasad&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#061006"/>
-      <stop offset="100%" stop-color="#020602"/>
-    </linearGradient>
-  </defs>
+---
+[![](https://komarev.com/ghpvc/?username=Nagendraprasad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <!-- Calculator / terminal body -->
-  <rect x="10" y="10" width="880" height="400"
-        rx="20"
-        fill="#111"
-        stroke="#333"
-        stroke-width="3"/>
-
-  <!-- Screen -->
-  <rect x="35" y="35" width="830" height="350"
-        rx="10"
-        fill="url(#screen)"
-        stroke="#1aff1a"
-        stroke-width="2"/>
-
-  <!-- Header -->
-  <text x="60" y="75"
-        font-family="monospace"
-        font-size="20"
-        fill="#00ff41"
-        filter="url(#glow)">
-    ABOUT_ME.exe
-  </text>
-
-  <!-- Typing text -->
-  <g font-family="monospace"
-     font-size="18"
-     fill="#00ff41"
-     filter="url(#glow)">
-
-    <text x="60" y="115">
-      &gt; Initializing developer profile...
-    </text>
-
-    <text x="60" y="150">
-      &gt; Software Developer
-    </text>
-
-    <text x="60" y="180">
-      &gt; Information Science Undergraduate
-    </text>
-
-    <text x="60" y="215">
-      &gt; Java • Spring Boot • JUnit
-    </text>
-
-    <text x="60" y="245">
-      &gt; MySQL • PostgreSQL
-    </text>
-
-    <text x="60" y="275">
-      &gt; OOPS • Data Structures • System Design
-    </text>
-
-    <text x="60" y="310">
-      &gt; Building AI-driven applications...
-    </text>
-
-    <text x="60" y="340">
-      &gt; STATUS: READY_
-    </text>
-
-  </g>
-
-  <!-- Blinking cursor -->
-  <rect x="245" y="323"
-        width="12"
-        height="22"
-        fill="#00ff41"
-        filter="url(#glow)">
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="0.8s"
-      repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Scanline effect -->
-  <rect x="35" y="35" width="830" height="3"
-        fill="#00ff41"
-        opacity="0.15">
-    <animate
-      attributeName="y"
-      from="35"
-      to="382"
-      dur="3s"
-      repeatCount="indefinite"/>
-  </rect>
-
-</svg>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
