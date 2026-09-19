@@ -2,8 +2,45 @@
 
 𝙄'𝙢 𝙖 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙪𝙣𝙙𝙚𝙧𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙬𝙞𝙩𝙝 𝙝𝙖𝙣𝙙𝙨-𝙤𝙣 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 𝙞𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙅𝙖𝙫𝙖-𝙗𝙖𝙨𝙚𝙙 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙖𝙣𝙙 𝙖𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙩𝙤𝙤𝙡𝙨. 𝙎𝙠𝙞𝙡𝙡𝙚𝙙 𝙞𝙣 𝙅𝙖𝙫𝙖, 𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩, 𝙅𝙐𝙣𝙞𝙩, 𝙖𝙣𝙙 𝙙𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝 𝙈𝙮𝙎𝙌𝙇 𝙖𝙣𝙙 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, 𝙘𝙤𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙 𝙗𝙮 𝙨𝙩𝙧𝙤𝙣𝙜 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙤𝙛 𝙊𝙊𝙋𝙎, 𝘿𝙖𝙩𝙖 𝙎𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚𝙨, 𝙖𝙣𝙙 𝙎𝙮𝙨𝙩𝙚𝙢 𝘿𝙚𝙨𝙞𝙜𝙣. 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙞𝙢𝙥𝙖𝙘𝙩𝙛𝙪𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣𝙘𝙡𝙪𝙙𝙞𝙣𝙜 𝙖 𝙘𝙧𝙤𝙥 𝙧𝙚𝙘𝙤𝙢𝙢𝙚𝙣𝙙𝙖𝙩𝙞𝙤𝙣 𝙨𝙮𝙨𝙩𝙚𝙢 𝙖𝙣𝙙 𝙧𝙚𝙖𝙡-𝙩𝙞𝙢𝙚 𝙘𝙞𝙫𝙞𝙘 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩 𝙥𝙡𝙖𝙩𝙛𝙤𝙧𝙢, 𝙖𝙥𝙥𝙡𝙮𝙞𝙣𝙜 𝘼𝙄-𝙙𝙧𝙞𝙫𝙚𝙣 𝙖𝙥𝙥𝙧𝙤𝙖𝙘𝙝𝙚𝙨 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨. 𝘼𝙘𝙩𝙞𝙫𝙚𝙡𝙮 𝙨𝙚𝙚𝙠𝙞𝙣𝙜 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙩𝙤 𝙡𝙚𝙫𝙚𝙧𝙖𝙜𝙚 𝙅𝙖𝙫𝙖 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙞𝙣 𝙙𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜 𝙚𝙛𝙛𝙞𝙘𝙞𝙚𝙣𝙩, 𝙞𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙩 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙬𝙝𝙞𝙡𝙚 𝙜𝙖𝙞𝙣𝙞𝙣𝙜 𝙞𝙣𝙙𝙪𝙨𝙩𝙧𝙮 𝙚𝙭𝙥𝙤𝙨𝙪𝙧𝙚.
 
+<div style="display:flex;justify-content:center;align-items:flex-start;gap:40px;flex-wrap:wrap;">
+  
+  <!-- 𝙎𝙠𝙞𝙡𝙡𝙨 𝙏𝙖𝙗𝙡𝙚 -->
+  <div>
+    <table style="border-collapse:collapse;table-layout:fixed;width:400px;text-align:center;">
+      <tr>
+        <td width="50%" style="padding:25px;vertical-align:middle;">
+          <h3>𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨</h3>
+          <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+            <img src="https://skillicons.dev/icons?i=python,c,java,js" />
+          </div>
+        </td>
+        <td width="50%" style="padding:25px;vertical-align:middle;">
+          <h3>𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & 𝙇𝙞𝙗𝙧𝙖𝙧𝙞𝙚𝙨</h3>
+          <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+            <img src="https://skillicons.dev/icons?i=react,fastapi,spring,tailwind" />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" style="padding:25px;vertical-align:middle;">
+          <h3>𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨</h3>
+          <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+            <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+          </div>
+        </td>
+        <td width="50%" style="padding:25px;vertical-align:middle;">
+          <h3>𝙏𝙤𝙤𝙡𝙨 & 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢𝙨</h3>
+          <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellij" />
+          </div>
+        </td>
+      </tr>
+    </table>
+</div>
+
+<!-- 𝘾𝙤𝙙𝙞𝙣𝙜 𝙂𝙄𝙁 -->
+<div>
+    <img alt="coding" width="400"      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+</div>
 
 
-
-
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
