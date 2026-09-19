@@ -1,15 +1,8 @@
-# About Me: 
-I'm a software developer, Information Science undergraduate with hands‑on experience in building Java‑based systems and automation tools. Skilled in Java, Spring Boot, JUnit, and database integration with MySQL and PostgreSQL, complemented by strong knowledge of OOPS, Data Structures, and System Design. Developed impactful projects including a crop recommendation system and real‑time civic management platform, applying AI‑driven approaches and scalable backend solutions. Actively seeking opportunities to leverage Java expertise in designing efficient, intelligent applications while gaining industry exposure.
+𝙰𝙱𝙾𝚄𝚃 𝙼𝙴:
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nagendraprasad&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Nagendraprasad&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagendraprasad&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+𝙸'𝚖 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚞𝚗𝚍𝚎𝚛𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚠𝚒𝚝𝚑 𝚑𝚊𝚗𝚍𝚜-𝚘𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙹𝚊𝚟𝚊-𝚋𝚊𝚜𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚘𝚘𝚕𝚜. 𝚂𝚔𝚒𝚕𝚕𝚎𝚍 𝚒𝚗 𝙹𝚊𝚟𝚊, 𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝, 𝙹𝚄𝚗𝚒𝚝, 𝚊𝚗𝚍 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝙼𝚢𝚂𝚀𝙻 𝚊𝚗𝚍 𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻, 𝚌𝚘𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚋𝚢 𝚜𝚝𝚛𝚘𝚗𝚐 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚏 𝙾𝙾𝙿𝚂, 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜, 𝚊𝚗𝚍 𝚂𝚢𝚜𝚝𝚎𝚖 𝙳𝚎𝚜𝚒𝚐𝚗. 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚒𝚖𝚙𝚊𝚌𝚝𝚏𝚞𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚊 𝚌𝚛𝚘𝚙 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗 𝚜𝚢𝚜𝚝𝚎𝚖 𝚊𝚗𝚍 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚌𝚒𝚟𝚒𝚌 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖, 𝚊𝚙𝚙𝚕𝚢𝚒𝚗𝚐 𝙰𝙸-𝚍𝚛𝚒𝚟𝚎𝚗 𝚊𝚙𝚙𝚛𝚘𝚊𝚌𝚑𝚎𝚜 𝚊𝚗𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜. 𝙰𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜 𝚝𝚘 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝙹𝚊𝚟𝚊 𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎 𝚒𝚗 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝, 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚠𝚑𝚒𝚕𝚎 𝚐𝚊𝚒𝚗𝚒𝚗𝚐 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝚎𝚡𝚙𝚘𝚜𝚞𝚛𝚎.
 
----
-[![](https://komarev.com/ghpvc/?username=Nagendraprasad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0MGNtcTdwbndqajV1Z2JvbDJwOTJydnZubjJ6dHQ0ZmR4N3ZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
