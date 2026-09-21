@@ -5,7 +5,7 @@
 <div style="display:flex;justify-content:center;align-items:flex-start;gap:40px;flex-wrap:wrap;">
    
   <!-- 𝙎𝙠𝙞𝙡𝙡𝙨 𝙏𝙖𝙗𝙡𝙚 -->
-  <div>
+  <div> 
     <table style="border-collapse:collapse;table-layout:fixed;width:400px;text-align:center;">
       <tr>
         <td width="50%" style="padding:25px;vertical-align:middle;">
